@@ -30,7 +30,7 @@ This script assumes that the `-m` folder contains a pretrained scene, by default
 ## BibTeX
 Paper:
 ```
-@inproceedings{kovacs2024𝒢,
+@inproceedings{kovacs2024gstyle,
   title={𝒢-Style: Stylized Gaussian Splatting},
   author={Kov{\'a}cs, {\'A}ron Samuel and Hermosilla, Pedro and Raidou, Renata G},
   booktitle={Computer Graphics Forum},
